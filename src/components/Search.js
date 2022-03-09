@@ -1,6 +1,6 @@
 import styles from "./Search.module.css"
 import { ImSearch } from 'react-icons/im'
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useQuery } from "../hooks/useQuery";
 

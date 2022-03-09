@@ -2,10 +2,10 @@ import { useEffect, useState } from "react";
 import { MoviesCard } from "../components/MoviesCard";
 import { get } from "../utils/httpClient";
 import { Spinner } from "../components/Spinner";
-import { useQuery } from "../hooks/useQuery";
+// import { useQuery } from "../hooks/useQuery";
 import InfiniteScroll from "react-infinite-scroll-component";
 import { Empty } from "../components/empty";
-import movies from "../components/movies.json";
+// import movies from "../components/movies.json";
 import styles from './MoviesGrid.module.css';
 
 
