@@ -13,7 +13,7 @@ export function App() {
                 <header>
                         {/* <img className={styles.logo} src="htEps://img2.freepng.es/20180509/icw/kisspng-film-cinema-logo-5af2add6ebd529.260347231525853654966.jpg" alt="Logo Pagina" /> */}
                         <Link to='/'>
-                            <h1 className={styles.title}><p><a href=''> MOVIE SHOW </a></p></h1>
+                            <h1 className={styles.title}><p><a href=''> TACHAME LA PELI </a></p></h1>
                         </Link>
                 </header>
                 <main>
